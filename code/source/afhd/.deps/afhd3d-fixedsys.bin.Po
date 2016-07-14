@@ -1,0 +1,1 @@
+afhd3d-fixedsys.bin.o: fixedsys.bin.c

@@ -1,0 +1,26 @@
+C++ Lexer written by Jared Bruni, in this project it will be used for 
+a simple DSL for loading text based mxmap files produced by MXLevelEdit.
+
+the application which tests the parser will take a level exported to text
+format by MXLevelEdit and parse and display the tokens or change the
+variable names and output to a text file. Run the program on the text
+file again and it will parse correctly.
+
+command line arguments:
+
+-c input file
+-f output shorthand variable names
+
+example:
+
+$ ./parseTest -c input.txt -f output.txt
+
+or
+
+$ ./parseTest -c input.txt
+
+
+-jared
+
+
+

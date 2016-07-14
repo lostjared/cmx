@@ -1,0 +1,12 @@
+b2o binary to C array converter
+
+how to use:
+
+$ b2o file.dat
+
+will produce file.dat.h and file.dat.c
+the name of the variable is file_dat
+so it turns . into _
+
+- jared
+

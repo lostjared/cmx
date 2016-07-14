@@ -1,0 +1,55 @@
+"ninjasheet.bmp":"Sprite_Background_1" = {
+	67:283:16:16
+}
+
+"ninjasheet.bmp":"Sprite_Background_2" = {
+	0:0:16:16
+}
+
+Untitled<800, 600, 48, 35> {
+{2,5:Sprite_Background_1},{2,6:Sprite_Background_1},{2,7:Sprite_Background_1},{2,9:Sprite_Background_1},{2,11:Sprite_Background_1},
+{3,5:Sprite_Background_1},{3,14:Sprite_Background_1},{3,16:Sprite_Background_1},{4,5:Sprite_Background_1},{5,22:Sprite_Background_1},
+{5,24:Sprite_Background_1},{6,12:Sprite_Background_1},{6,14:Sprite_Background_1},{6,16:Sprite_Background_1},{6,17:Sprite_Background_1},
+{6,19:Sprite_Background_1},{6,21:Sprite_Background_1},{6,22:Sprite_Background_1},{7,11:Sprite_Background_1},{7,22:Sprite_Background_1},
+{8,5:Sprite_Background_1},{8,10:Sprite_Background_1},{8,23:Sprite_Background_1},{8,29:Sprite_Background_1},{8,30:Sprite_Background_1},
+{9,4:Sprite_Background_1},{9,10:Sprite_Background_1},{10,4:Sprite_Background_1},{10,10:Sprite_Background_1},{10,24:Sprite_Background_1},
+{10,32:Sprite_Background_1},{11,10:Sprite_Background_1},{11,33:Sprite_Background_1},{12,11:Sprite_Background_1},{12,24:Sprite_Background_1},
+{12,33:Sprite_Background_1},{13,4:Sprite_Background_1},{13,11:Sprite_Background_1},{13,34:Sprite_Background_1},{14,11:Sprite_Background_1},
+{14,25:Sprite_Background_1},{14,34:Sprite_Background_1},{15,12:Sprite_Background_1},{15,34:Sprite_Background_1},{16,12:Sprite_Background_1},
+{17,4:Sprite_Background_1},{17,12:Sprite_Background_1},{17,13:Sprite_Background_1},{17,34:Sprite_Background_1},{18,13:Sprite_Background_1},
+{18,25:Sprite_Background_1},{18,34:Sprite_Background_1},{19,4:Sprite_Background_1},{19,14:Sprite_Background_1},{20,4:Sprite_Background_1},
+{20,14:Sprite_Background_1},{20,15:Sprite_Background_1},{20,26:Sprite_Background_1},{21,4:Sprite_Background_1},{21,15:Sprite_Background_1},
+{22,4:Sprite_Background_1},{22,15:Sprite_Background_1},{22,26:Sprite_Background_1},{23,4:Sprite_Background_1},{23,15:Sprite_Background_1},
+{24,15:Sprite_Background_1},{24,16:Sprite_Background_1},{24,27:Sprite_Background_1},{25,4:Sprite_Background_1},{25,16:Sprite_Background_1},
+{25,20:Sprite_Background_1},{25,21:Sprite_Background_1},{25,24:Sprite_Background_1},{25,27:Sprite_Background_1},{25,30:Sprite_Background_1},
+{25,32:Sprite_Background_1},{25,33:Sprite_Background_1},{25,34:Sprite_Background_1},{26,5:Sprite_Background_1},{26,15:Sprite_Background_1},
+{26,16:Sprite_Background_1},{26,17:Sprite_Background_1},{27,10:Sprite_Background_1},{27,11:Sprite_Background_1},{27,12:Sprite_Background_1},
+{27,13:Sprite_Background_1},{27,14:Sprite_Background_1},{27,15:Sprite_Background_1},{27,16:Sprite_Background_1},{27,27:Sprite_Background_1},
+{28,5:Sprite_Background_1},{28,13:Sprite_Background_1},{28,14:Sprite_Background_1},{28,27:Sprite_Background_1},{29,10:Sprite_Background_1},
+{29,27:Sprite_Background_1},{30,4:Sprite_Background_1},{30,9:Sprite_Background_1},{30,27:Sprite_Background_1},{31,4:Sprite_Background_1},
+{31,8:Sprite_Background_1},{31,15:Sprite_Background_1},{31,16:Sprite_Background_1},{31,17:Sprite_Background_1},{31,18:Sprite_Background_1},
+{31,20:Sprite_Background_1},{31,27:Sprite_Background_1},{32,4:Sprite_Background_1},{32,7:Sprite_Background_1},{32,8:Sprite_Background_1},
+{32,12:Sprite_Background_1},{32,13:Sprite_Background_1},{32,14:Sprite_Background_1},{32,15:Sprite_Background_1},{32,16:Sprite_Background_1},
+{32,17:Sprite_Background_1},{32,18:Sprite_Background_1},{32,19:Sprite_Background_1},{32,21:Sprite_Background_1},{32,22:Sprite_Background_1},
+{33,4:Sprite_Background_1},{33,7:Sprite_Background_1},{33,10:Sprite_Background_1},{33,12:Sprite_Background_1},{33,21:Sprite_Background_1},
+{33,23:Sprite_Background_1},{34,4:Sprite_Background_1},{34,7:Sprite_Background_1},{34,9:Sprite_Background_1},{34,11:Sprite_Background_1},
+{34,12:Sprite_Background_1},{34,21:Sprite_Background_1},{34,24:Sprite_Background_1},{35,4:Sprite_Background_1},{35,6:Sprite_Background_1},
+{35,7:Sprite_Background_1},{35,11:Sprite_Background_1},{35,21:Sprite_Background_1},{35,24:Sprite_Background_1},{36,4:Sprite_Background_1},
+{36,6:Sprite_Background_1},{36,7:Sprite_Background_1},{36,11:Sprite_Background_1},{36,25:Sprite_Background_1},{37,6:Sprite_Background_1},
+{37,11:Sprite_Background_1},{37,12:Sprite_Background_1},{37,20:Sprite_Background_1},{37,21:Sprite_Background_1},{37,25:Sprite_Background_1},
+{38,5:Sprite_Background_1},{38,6:Sprite_Background_1},{38,12:Sprite_Background_1},{38,13:Sprite_Background_1},{38,19:Sprite_Background_1},
+{38,20:Sprite_Background_1},{39,5:Sprite_Background_1},{39,6:Sprite_Background_1},{39,13:Sprite_Background_1},{39,14:Sprite_Background_1},
+{39,15:Sprite_Background_1},{39,16:Sprite_Background_1},{39,17:Sprite_Background_1},{39,18:Sprite_Background_1},{39,21:Sprite_Background_1},
+{39,22:Sprite_Background_1},{39,23:Sprite_Background_1},{39,24:Sprite_Background_1},{39,25:Sprite_Background_1},{39,26:Sprite_Background_1},
+{40,5:Sprite_Background_1},{40,7:Sprite_Background_1},{40,25:Sprite_Background_1},{40,27:Sprite_Background_1},{40,28:Sprite_Background_1},
+{40,29:Sprite_Background_1},{40,30:Sprite_Background_1},{41,6:Sprite_Background_1},{41,7:Sprite_Background_1},{41,25:Sprite_Background_1},
+{41,30:Sprite_Background_1},{41,31:Sprite_Background_1},{42,6:Sprite_Background_1},{42,7:Sprite_Background_1},{42,25:Sprite_Background_1},
+{42,32:Sprite_Background_1},{43,32:Sprite_Background_1},{44,6:Sprite_Background_1},{44,9:Sprite_Background_1},{44,24:Sprite_Background_1},
+{44,25:Sprite_Background_1},{44,33:Sprite_Background_1},{45,7:Sprite_Background_1},{45,9:Sprite_Background_1},{45,19:Sprite_Background_1},
+{45,21:Sprite_Background_1},{45,23:Sprite_Background_1},{45,24:Sprite_Background_1},{45,34:Sprite_Background_1},{46,8:Sprite_Background_1},
+{46,10:Sprite_Background_1},{46,11:Sprite_Background_1},{46,12:Sprite_Background_1},{46,14:Sprite_Background_1},{46,15:Sprite_Background_1},
+{46,16:Sprite_Background_1},{46,18:Sprite_Background_1},{47,10:Sprite_Background_1},{47,11:Sprite_Background_1},{47,12:Sprite_Background_1},
+{47,13:Sprite_Background_1},{47,17:Sprite_Background_1},{47,18:Sprite_Background_1},{47,21:Sprite_Background_1},{47,23:Sprite_Background_1},
+{47,33:Sprite_Background_1},{47,34:Sprite_Background_1},0
+}
+

@@ -1,0 +1,63 @@
+First check this project out with subversion:
+
+$ svn co svn://lostsidedead.com/cmx/source cmx_source
+
+make sure you have libtool, autoheader autoconf and automake installed
+enter the directory and:
+
+$ ./autogen.sh
+
+also you should run
+
+$ libtoolize
+
+on my Mac with MacPorts its
+
+$ glibtoolize
+
+To configure this project using the generic module use:
+
+$ ./configure --prefix=path platform=generic
+
+path is where you compiled libpng libz SDL / boost:
+sometimes /usr/local or /opt/local
+
+to compile the windows module use:
+
+$ ./configure --prefix=/path/to/mingw platform=windows --target=i386-mingw32 --host=i386-mingw32
+
+for i386-mingw32 use what you named mingw32
+It requires at least DirectX8 mingw headers/libs google for them.
+
+For PS3 have PSL1GHT and the open source toolchain, enter main directory
+If your using OS X Snow Leopard theres a prebuilt toolchain that works
+with this version of CMX. Download @: http://lostsidedead.biz/ps3
+
+$ make build_test
+
+will copy headers and libs 
+will compile test programs
+
+for the pkg of a test program
+
+$ make pkg
+
+The generic module uses boost, so be sure to have it installed.
+
+MXLevelEdit source code: 
+http://lostsidedead.com/svn/listing.php?repname=Objective-C&path=%2Ftrunk%2Fapps%2FMXLevelEdit%2F&rev=0&sc=0
+
+MXFont Editor:
+http://lostsidedead.com/svn/listing.php?repname=mxfont&path=%2F&sc=0
+
+b2o binary to C for data resources:
+http://lostsidedead.com/svn/listing.php?repname=cmx&path=%2Fb2o%2F&rev=0&sc=0
+
+Compiled PS3 Demos to ue with PS3Load:
+http://lostsidedead.com/svn/listing.php?repname=cmx&path=%2Fbinary%2Fps3%2F&rev=0&sc=0
+
+TO DO:
+- Smoother Scrolling.
+
+for development use this to create, edit and manipulate mxf fonts:
+http://lostsidedead.com/svn/filedetails.php?repname=mxfont&path=%2Frelease%2FmxFont.exe&rev=0&sc=0

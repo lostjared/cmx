@@ -1,0 +1,4 @@
+bin_PROGRAMS=test_cmx
+test_cmx_SOURCES=test.cc
+test_cmx_CPPFLAGS=-I$(HEADER_PATH) $(PLATFORM_CFLAGS) 
+test_cmx_LDFLAGS=-L../$(PLATFORM) $(APP_PLATFORM_LDFLAGS) 
