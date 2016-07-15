@@ -1,0 +1,5 @@
+cross platform multimedia library.
+implementations for windows use directx/opengl
+for generic platforms uses SDL 1.2
+read info/README for info on how to compile his library
+
