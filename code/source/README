@@ -1,6 +1,42 @@
-To configure this project use
+make sure you have libtool, autoheader autoconf and automake installed
+enter the directory and:
 
+$ ./autogen.sh
 
-./configure platform=generic 
+also you should run
 
-use --prefix if you have SDL installed somewhere else
+$ libtoolize
+
+on my Mac with MacPorts its
+
+$ glibtoolize
+
+To configure this project using the generic module use:
+
+$ ./configure --prefix=path platform=generic
+
+path is where you compiled libpng libz SDL / boost:
+sometimes /usr/local or /opt/local
+
+to compile the windows module use:
+
+$ ./configure --prefix=/path/to/mingw platform=windows --target=i386-mingw32 --host=i386-mingw32
+
+for i386-mingw32 use what you named mingw32
+It requires at least DirectX8 mingw headers/libs google for them.
+
+For PS3 have PSL1GHT and the open source toolchain, enter main directory
+If your using OS X Snow Leopard theres a prebuilt toolchain that works
+with this version of CMX. Download @: http://lostsidedead.biz/ps3
+
+$ make build_test
+
+will copy headers and libs 
+will compile test programs
+
+for the pkg of a test program
+
+$ make pkg
+
+The generic module uses boost, so be sure to have it installed.
+
