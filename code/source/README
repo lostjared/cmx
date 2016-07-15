@@ -1,0 +1,6 @@
+To configure this project use
+
+
+./configure platform=generic 
+
+use --prefix if you have SDL installed somewhere else
