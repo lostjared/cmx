@@ -1,2 +1,4 @@
 # cmx
-This library is a cross-platform multimedia toolkit. For Windows, it utilizes Windows API/OpenGL, while for other platforms, it employs SDL 1.2. For instructions on compiling this library, please consult the info/README document.
+This library is a cross-platform multimedia toolkit. For Windows, it utilizes Windows API/OpenGL, 
+while for other platforms, it employs SDL 1.2. For instructions on compiling this library, 
+please consult the info/README document.
